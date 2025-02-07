@@ -1,4 +1,4 @@
-﻿using GeoCoordinateStuff;
+﻿using POC_GeoCoordinate;
 using System.Device.Location;
 
 double latitude;
